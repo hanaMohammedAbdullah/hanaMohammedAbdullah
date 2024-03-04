@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **react and php**
+  
+- Check my <a href="https://hanamohammedabdullah.github.io/Resume/">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
