@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Software developer from Kurdistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanamohammedabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="hanamohammedabdullah" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanamohammedabdullah" alt="hanamohammedabdullah" /></a> </p> -->
-- 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **react and php**
+-  🌱 I’m currently learning **node js and express**
+
+- 💬 Ask me about **react, nextjs and php**
   
 - Check my <a href="https://hanamohammedabdullah.github.io/Resume/">Resume</a>
 
