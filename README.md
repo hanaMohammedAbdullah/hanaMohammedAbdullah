@@ -5,7 +5,7 @@
 
 -  🌱 Still in the Learning process 
 
-- 💬 Ask me about **react, nextjs and php**
+- 💬 Ask me about **STLC ,cypress , nextjs and php**
   
 - Check my <a href="https://hanamohammedabdullah.github.io/Resume/">Resume</a>
 
