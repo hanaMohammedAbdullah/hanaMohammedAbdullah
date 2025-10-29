@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **STLC ,cypress , nextjs and php**
   
-- Check my <a href="https://hanamohammedabdullah.github.io/Resume/">Resume</a>
+- Check my <a href="https://www.self.so/hana-muhammed-j5tug4">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
